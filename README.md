@@ -1,16 +1,63 @@
-### Hi there 👋
+# **Hi There :wave:!**
 
-<!--
-**kk77777/kk77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kaushik** and I am a web developer enthusiast.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm from Ranchi.
+<br/>
+Currently, I'm pursuing my Bachelor of Technology in Electronics and Communication from Birla Institute Of Technology, Mesra.
+
+## My Interests
+
+- Coding
+- Watching movies
+- Playing computer games
+- And Sleeping
+
+## My Skills & Languages
+
+<table>
+    <thead>
+        <tr>
+            <th>C</th>
+            <th>C++</th>
+            <th>Python</th>
+            <th>Javascript</th>
+        </tr>
+    </thead>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>HTML</th>
+            <th>CSS</th>
+            <th>SCSS</th>
+            <th>Bootstrap</th>
+            <th>NodeJS</th>
+            <th>ReactJS</th>
+        </tr>
+    </thead>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>MongoDB</th>
+            <th>SQL</th>
+            <th>Git</th>
+            <th>Github</th>
+        </tr>
+    </thead>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Frontend Development</th>
+      <th>Backend Development</th>
+      <th>Fullstack Development</th>
+    </tr>
+  </thead>
+</table>
