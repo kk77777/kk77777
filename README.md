@@ -61,3 +61,5 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
     </tr>
   </thead>
 </table>
+
+![Kaushik's github stats](https://github-readme-stats.vercel.app/api?username=kk77777&show_icons=true&theme=merko&count_private=true&hide=stars,issues)
