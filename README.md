@@ -1,6 +1,7 @@
-# **Hi There :wave:!**
-
-I'm **Kaushik** and I am a web developer enthusiast.
+<div align="center">
+## Hi!, I'm Kaushik
+</div>
+<h3 align="center">An Engineering Undergrad and Full Stack Web Developer</h3>
 
 ## About Me
 
@@ -16,50 +17,14 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 - And Sleeping
 
 ## My Skills & Languages
+<p align="center"><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' width='40' height='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='40' height='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg' alt='bootstrap' width='40' height='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='nodejs' width='40' height='40'> 
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='reactjs' width='40' height='40'> 
+<img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg' alt='mongo' width='40' height='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='40' height='40'></p>
 
-<table>
-    <thead>
-        <tr>
-            <th>C</th>
-            <th>C++</th>
-            <th>Python</th>
-            <th>Javascript</th>
-        </tr>
-    </thead>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th>HTML</th>
-            <th>CSS</th>
-            <th>SCSS</th>
-            <th>Bootstrap</th>
-            <th>NodeJS</th>
-            <th>ReactJS</th>
-        </tr>
-    </thead>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th>MongoDB</th>
-            <th>SQL</th>
-            <th>Git</th>
-            <th>Github</th>
-        </tr>
-    </thead>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>Frontend Development</th>
-      <th>Backend Development</th>
-      <th>Fullstack Development</th>
-    </tr>
-  </thead>
-</table>
 
 ![Kaushik's github stats](https://github-readme-stats.vercel.app/api?username=kk77777&show_icons=true&theme=merko&count_private=true&hide=stars,issues)
+</div>
