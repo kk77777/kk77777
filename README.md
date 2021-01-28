@@ -14,7 +14,7 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 - Playing computer games
 - And Sleeping
 
-## My Skills & Languages
+## Skillset
 <p align="center"><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg' alt='bootstrap' width='40' height='40'>
@@ -23,6 +23,6 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg' alt='mongo' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='40' height='40'></p>
 
-
+## Github Stats
 ![Kaushik's github stats](https://github-readme-stats.vercel.app/api?username=kk77777&show_icons=true&theme=merko&count_private=true&hide=stars,issues)
 </div>
