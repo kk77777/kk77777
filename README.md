@@ -1,6 +1,4 @@
-<div align="center">
-## Hi!, I'm Kaushik
-</div>
+<h1 align="center">Hi!, I'm Kaushik </h1>
 <h3 align="center">An Engineering Undergrad and Full Stack Web Developer</h3>
 
 ## About Me
