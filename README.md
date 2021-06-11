@@ -24,8 +24,12 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='40' height='40'></p>
 
 ## Github Stats
-![Kaushik's github stats](https://github-readme-stats.vercel.app/api?username=kk77777&show_icons=true&theme=merko&count_private=true&hide=stars,issues)
-</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kk77777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk77777&layout=compact&langs_count=4&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Reach Me Through :
 <p align="center"><a href='mailto:kaushikgattani@gmail.com' target='_blank'><img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/></a>
