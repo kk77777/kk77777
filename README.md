@@ -33,3 +33,7 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 <a target='_blank' href='https://www.linkedin.com/in/kaushik-kumar-gattani-7831b3195/'><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a target='_blank' href='https://twitter.com/GattaniKaushik'><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a target='_blank' href='https://medium.com/@kaushikgattani'><img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png" width='45' height='45'/></a></p>
+
+<strong>Glad to see you here!</strong>
+<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kk77777.kk77777)
