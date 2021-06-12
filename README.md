@@ -25,9 +25,16 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 
 ## Github Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kk77777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kk77777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk77777&layout=compact&langs_count=4&theme=cobalt" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk77777&layout=compact&langs_count=4&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
