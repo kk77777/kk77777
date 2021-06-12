@@ -1,20 +1,20 @@
-<h1 align="center">Hi!, I'm Kaushik </h1>
+<h1 align="center">Hi! 👋, I'm Kaushik </h1>
 <h3 align="center">An Engineering Undergrad and Full Stack Web Developer</h3>
 
-## About Me
+## \< About Me \/\>
 
 I'm from Ranchi.
 <br/>
 Currently, I'm pursuing my Bachelor of Technology in Electronics and Communication from Birla Institute Of Technology, Mesra.
 
-## My Interests
+## \< My Interests \/\>
 
-- Coding
-- Watching movies
-- Playing computer games
-- And Sleeping
+- Coding 💻
+- Watching movies and tv series 📺
+- Playing chess ♟️ (though not good at it 😅)
+- And Sleeping 😴
 
-## Skillset
+## \< Skillset \/\>
 <p align="center"><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg' alt='bootstrap' width='40' height='40'>
@@ -23,7 +23,7 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg' alt='mongo' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='40' height='40'></p>
 
-## Github Stats
+## \< Github Stats \/\>
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kk77777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -31,12 +31,6 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk77777&layout=compact&langs_count=4&theme=cobalt" />
 </a>
-
-
-
-
-
-
 
 ## Reach Me Through :
 <p align="center"><a href='mailto:kaushikgattani@gmail.com' target='_blank'><img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/></a>
