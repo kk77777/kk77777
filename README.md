@@ -12,7 +12,11 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 - Coding 💻
 - Watching movies and tv series 📺
 - Playing chess ♟️ (though not good at it 😅)
+- Reading Books 📚
 - And Sleeping 😴
+
+## \< Currently I'm Reading \/\>
+<progress value = "10" max = "100"/>
 
 ## \< Skillset \/\>
 <p align="center"><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' width='40' height='40'>
