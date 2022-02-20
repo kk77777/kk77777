@@ -16,14 +16,18 @@ Currently, I'm pursuing my Bachelor of Technology in Electronics and Communicati
 - And Sleeping 😴
 
 ## \< Currently I'm Reading \/\>
-<progress value = "10" max = "100"/>
+<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1588286863l%2F634583._SY475_.jpg&f=1&nofb=1' alt='bootstrap' width='200' height='200'>
+
+![10%](https://progress-bar.dev/10/?title=Read)
 
 ## \< Skillset \/\>
 <p align="center"><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='40' height='40'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='python' width='40' height='40'/> 
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg' alt='bootstrap' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='nodejs' width='40' height='40'> 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='reactjs' width='40' height='40'> 
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='reactjs' width='40' height='40'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt='mysql' width='40' height='40'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg' alt='mongo' width='40' height='40'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='40' height='40'></p>
 
